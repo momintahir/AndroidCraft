@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroidCraft"
 include(":app")
- 
+include(":appCore")
