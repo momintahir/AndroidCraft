@@ -1,4 +1,4 @@
-package com.example.androidcraft.ui.theme
+package com.momin.androidcraft.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

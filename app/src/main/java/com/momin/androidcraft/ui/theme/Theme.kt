@@ -1,4 +1,4 @@
-package com.example.androidcraft.ui.theme
+package com.momin.androidcraft.ui.theme
 
 import android.app.Activity
 import android.os.Build

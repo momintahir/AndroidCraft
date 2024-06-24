@@ -1,4 +1,4 @@
-package com.example.androidcraft
+package com.momin.androidcraft
 
 import org.junit.Test
 
