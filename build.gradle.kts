@@ -11,4 +11,5 @@ plugins {
     alias(libs.plugins.hilt.plugin) apply false
     alias(libs.plugins.spotless)
     alias(libs.plugins.baselineprofile) apply false
+    alias(libs.plugins.jetbrains.kotlin.jvm) apply false
 }

@@ -16,3 +16,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroidCraft"
 include(":app")
+include(":core:data")
+include(":core:database")
+include(":core:designsystem")
+include(":core:model")
